@@ -14,11 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-class ari:
-  def __init__(info):
-    info.aboutme = {
-            "email": ["arianrazab@yahoo.com"],
-            "personal info": ["Ari", "Razab", "26", "Male"],
-            "portfolio": ["https://www.arii.me/"],
-            "location": ["Germany", "Rheinland-Pfalz"],
-    }
+
